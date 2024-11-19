@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ and html
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me maileskafle@gmail.com is my email
-- 😄 Pronouns: ...
+- 📫 How to reach me mileskafle@gmail.com is my email
+- 😄 Pronouns: .boka..
 - ⚡ Fun fact: im new in this race with zero knowlage
 mileskafle in instagram
 

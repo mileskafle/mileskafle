@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mileskafle@gmail.com is my email
-- 😄 Pronouns: .boka..
+- 😄 Pronouns: .nothing
 - ⚡ Fun fact: im new in this race with zero knowlage
 mileskafle in instagram
 

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Universe for Kids</title>
+    <style>
+        /* General Page Styling */
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Header Section */
+        header {
+            background-color: #ff4500;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 2em;
+            text-shadow: 2px 2px 4px #000;
+        }
+
+        /* Main Content Area */
+        main {
+            padding: 20px;
+        }
+
+        /* Section Styling */
+        section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            background: #ffe4e1;
+            box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Image Styling */
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            border: 3px solid #ff6347;
+        }
+
+        /* Button Styling */
+        .button {
+            display: inline-block;
+            background-color: #ff6347;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2);
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+            background-color: #ff4500;
+        }
+
+        /* Footer Styling */
+        footer {
+            background-color: #ff4500;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Welcome to the Marvel Universe !
+    </header>
+
+    <main>
+        <!-- Section About Stan Lee -->
+        <section>
+            <h2>Meet Stan Lee</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Stan_Lee_2014_Comic_Con_%28cropped%29.jpg" alt="Stan Lee ">
+            <p>
+                Stan Lee, often called the "Father of Marvel," co-created many iconic characters like Spider-Man, Iron Man, the Hulk, and the X-Men. His imaginative storytelling and vibrant characters have inspired generations of fans. 
+                He also made cameo appearances in nearly every Marvel movie, bringing a smile to fans around the globe.
+            </p>
+        </section>
+
+        <!-- Section About Popular Marvel Movies -->
+        <section>
+            <h2>Popular Marvel Movies</h2>
+            <ul>
+                <li><strong>Spider-Man: Homecoming</strong> - Follow Peter Parker as he balances high school life and his superhero identity.</li>
+                <li><strong>Black Panther</strong> - Explore the advanced kingdom of Wakanda with King T'Challa.</li>
+                <li><strong>The Avengers</strong> - Watch Earth’s mightiest heroes come together to save the planet.</li>
+                <li><strong>Guardians of the Galaxy</strong> - A team of unlikely heroes battles to protect the galaxy.</li>
+                <li><strong>Doctor Strange</strong> - Experience the mystical world of magic and alternate dimensions.</li>
+            </ul>
+        </section>
+
+        <!-- Section for Kids -->
+        <section>
+            <h2>Why Kids Love Marvel</h2>
+            <p>
+                Marvel heroes teach us about bravery, teamwork, and kindness. With exciting stories and colorful characters, Marvel movies are perfect for kids who love action, adventure, and a touch of humor.
+            </p>
+            <a href="https://www.marvel.com" target="_blank" class="button">Discover More at Marvel.com</a>
+        </section>
+    </main>
+
+    <footer>
+        © 2025 Marvel Universe for Kids | All Rights Reserved
+    </footer>
+</body>
+</html>
